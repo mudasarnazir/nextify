@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 14,
-  "latestVersionCode": 14,
+  "minVersionCode": 15,
+  "latestVersionCode": 15,
   "apkUrl": "https://github.com/mudasarnazir/attendify-android/releases/latest/download/Attendify.apk",
-  "sha256": "4b67e93f50bfd27b90a7fbb63c8a02ce233b892d7e2303c32207aa25df2aa33b",
+  "sha256": "8b3247ac798a6207f4adb675b0c8e17e41d1d6851929a66e03098e54482bc222",
   "notes": "Initial public release."
 }
